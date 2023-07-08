@@ -3,6 +3,7 @@
 	"author": "Ali Hussain",
 	"description": "A project that does something awesome",
 	"keywords": ["backend", "machinelearning", "freecodecamp"],
+	"license": "COMSATS",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
